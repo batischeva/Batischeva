@@ -1,0 +1,13 @@
+*,
+*::before,
+*::after {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+h1 {
+  font-family: Helvetica, sans-serif;
+  font-size: 32px;
+  color: red;
+}
